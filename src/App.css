@@ -19,6 +19,15 @@
   color: white;
 }
 
+.story-img{
+  width: 20vw;
+  height: auto;
+}
+
+.story-ul{
+  list-style: none;
+}
+
 .App-link {
   color: #61dafb;
 }
